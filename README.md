@@ -8,5 +8,5 @@ How to use:
 4. finally enter the value of wei you want to send minimum(1000000000 wei).
 5. Then that's it you have purchased a laptop using your wallet address in remix ide.
 6. If you have anyother wallets like Metamask or Rinkeby ,set inject to web3 in environment so that you can connect to the main network.
-7. Then follow the same steps and check the transaction in etherscn.
-8. +++++++++++++++++++++++++++++++++++++++++++++++++++++++THANKN YOU :)++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+7. Then follow the same steps and check the transaction in etherscan.
+8. ++++++++++++++++++++THANK YOU :)++++++++++++++++++++
